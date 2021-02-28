@@ -1,0 +1,59 @@
+DIRETORIOS
+
+[.xbindkeysrc]
+home/.xbindkeysrc 
+
+[autostart]
+/home/bernal/.config/bunsen/autostart
+
+[bl-rc.xml]
+/home/bernal/.config/openbox/bl-rc.xml
+
+[prepend.csv]
+/home/bernal/.config/jgmenu/prepend.csv
+
+
+
+
+ZSH - INSTALAÇÃO E COSTUMIZAÇAO
+
+ZSH - Instalação e Costumização 
+1. sudo apt install zsh
+
+2. sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+3. sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+OBS: quando rodar o item 3 vai perguntar se você quer ou não instalar os plugins recomendados, excolher opção N (NÃO)
+
+4. git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
+
+5. ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme" 
+
+6.Plugins (zsh-autosuggestions & zsh-syntax-highlighting)
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+
+7. copiar e colocar script .zshrc (olhar em diretorio acima)
+
+
+
+
+PROGRAMAS E UTILITÁRIOS
+
+Git  - instalação
+sudo apt install git 
+
+NVM - instalação 
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | $SHELL
+nvm install --lts
+
+YARN - instalação
+npm install --global yarn
+
+Gimp - Instalação 
+sudo apt install gimp
+
+
+
+
+
