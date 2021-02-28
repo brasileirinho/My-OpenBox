@@ -146,7 +146,7 @@ sudo apt install gimp
 
 <h2>*Sistema</h2>
 <p><b>Reiniciar, Desligar, Suspender, Hibernar:</b> WIN + X</p>
-<p><b>Menu</b> WIN</p>
+<p><b>Menu:</b> WIN</p>
 
 <h3>Obrigado !</h3>
 
