@@ -120,7 +120,7 @@ sudo apt install gimp
 
 <h1>Atalhos Keyboard</h1>
 
-<b>*Janelas</h4>
+<h2>*Janelas</h2>
 <p><b>Fechar Janela</b> WIN + 1</p>
 <p><b>Maximizar Janela</b> WIN + 2</p>
 <p><b>Fechar Minimizar</b> WIN + 3</p>
@@ -134,7 +134,7 @@ sudo apt install gimp
 </p>
 <p><b>Mover janela com Mouse</b> ALT + rastar c/ Mouse</p>
 
-<b>*Programas</b>
+<h2>*Programas</h2>
 <p><b>Web</b> WIN + W</p>
 <p><b>Bloco de notas</b> WIN + E</p>
 <p><b>Spotify</b> WIN + S</p>
@@ -144,11 +144,11 @@ sudo apt install gimp
 <p><b>Controle de Áudio</b> WIN + V</p>
 <p><b>Visual Studio Code</b> WIN + C</p>
 
-<b>*Desligar Hibernar Suspender Reiniciar</b>
+<h2>*Desligar Hibernar Suspender Reiniciar</h2>
 <p><b>Win + X</b></p>
 
-<b>*Menu</b>
+<h2>*Menu</h2>
 <p><b>Win</b></p>
 
-<h1>Obrigado !</h1>
+<h5>Obrigado !</h5>
 
