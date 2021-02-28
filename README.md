@@ -16,14 +16,14 @@
   tirar as mãos do teclado.
 </p>
 
-<h3>
+<h5>
   <b>DICAS:</b> Já realizei essa config em um Debian minimal instalando o
   OpenBox do zero, Display Manager (etc etc) porém exige muito tempo para
   conseguir arquitetar todo o sistema (muitas quebras) então recomendo utilizar
   o Bunsenlabs , ele já vem com uma base bem solida até mesmo para quem está
   começando no mundos das customizações, é muito importante ler as documentações
   antes de qualquer mudança.
-</h3>
+</h5>
 
 <h1>O que vamos fazer ?</h1>
 <p>
