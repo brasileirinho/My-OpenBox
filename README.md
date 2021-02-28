@@ -117,6 +117,13 @@ sudo apt install gimp
 <h4>Terminal e ZSH</h4>
 <img src="Screenshot/zsh.png" />
 
+<h4>Painel</h4>
+<img src="Screenshot/painel.png" />
+
+<h4>Painel (não utilizo a borda decorada então para fechar, minimizar e maximizar só pelo teclado ou terminal</h4>
+<img src="Screenshot/janela.png" />
+
+
 
 <h1>Atalhos Keyboard</h1>
 
