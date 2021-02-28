@@ -16,34 +16,29 @@
   tirar as mãos do teclado.
 </p>
 
-<h5>
-  <b>DICAS:</b> Já realizei essa config em um Debian minimal instalando o
-  OpenBox do zero, Display Manager (etc etc) porém exige muito tempo para
-  conseguir arquitetar todo o sistema (muitas quebras) então recomendo utilizar
-  o Bunsenlabs , ele já vem com uma base bem solida até mesmo para quem está
-  começando no mundos das customizações, é muito importante ler as documentações
-  antes de qualquer mudança.
-</h5>
-
-<h1>O que vamos fazer ?</h1>
 <p>
-  Nesse guia deixo tudo mastigado, como configuração e personalização do painel,
-  Wallpaper editado por mim, instalar e personalizar o ZSH (se você é
-  desenvolvedor vai curtir), atalhos keyboard para melhorar a produtividade,
-  ajustes de menu e janelas entre outros. Vamos utilizar o máximo de recurso
-  possível que o Bunsenlabs nos entrega como tema GTK, Icones e Fonts, assim
-  deixando o sistema mais leve (até porque o tema Yeti é Lindo). Basta ler os
-  passos a seguir.
+  <b>DICAS:</b> Se quiser pode realizar essa personalização instalando o Debian minimal só ter certeza de que já possui alguns pacotes essenciais como Xorg, Display Manager, Sound Mixer, Network Manager, etc. Minha recomendação é começar com o Bunsenlabs é um sistema bem construido, apenas com programas e recusros essenciais.
 </p>
 
-<h1>Referencias e Links</h1>
+<h1>O que vamos fazer ?</h1>
+  <ul>
+    <li>Personalizar painel ( cores, tamanho pisição, funcionalidades )</li>
+    <li>Personalizar Menu ( deixando mais Limpo ) </li>
+    <li>Personalizar Janaleas</li>
+    <li>Atalhos no teclado para aumentar a produtividade ( tudo sem tirar as mãos do teclado )</li>
+    <li>Personalizar Shell "terminal" com ZSH ( Oh my zsh )</li>
+    <li>Aparencia do Sistema ( tema GTK Yeti e Papitus já existente no Bunsenlabs )</li>
+    <li>Wallpaper editado por mim</li>
+    <li>Instalação de alguns programas que utilizo ( Gimp, VsCode, Git, NVM, e Yarn )</li>
+  </ul>
+
+<h1>DOCUMENTAÇÃO</h1>
 <p><b>Bunsenlabs:</b>https://www.bunsenlabs.org/</p>
 <p><b>OpenBox:</b>http://openbox.org/wiki/Main_Page</p>
 <p><b>OhMyZSH:</b>https://ohmyz.sh/</p>
 <p><b>Forum:</b>https://www.vivaolinux.com.br/comunidade/OpenBox/forum/</p>
 
 <h1>DIRETORIOS</h1>
-
 <b>[.xbindkeysrc]</b>
 <p>home/.xbindkeysrc</p>
 
@@ -60,7 +55,6 @@
 <p>/home</p>
 
 <h1>ZSH - INSTALAÇÃO E COSTUMIZAÇAO</h1>
-
 <h4>ZSH - Instalação e Costumização</h4>
 <p>1. sudo apt install zsh</p>
 <p>
@@ -92,7 +86,6 @@
 <p>7. copiar e colocar script .zshrc ( diretorio a cima)</p>
 
 <h1>PROGRAMAS E UTILITÁRIOS</h1>
-
 <b>Git - instalação</b>
 sudo apt install git
 
