@@ -79,8 +79,8 @@
 <p>
   6.Plugins (zsh-autosuggestions & zsh-syntax-highlighting) git clone
   https://github.com/zsh-users/zsh-autosuggestions.git
-  $ZSH_CUSTOM/plugins/zsh-autosuggestions git clone
-  https://github.com/zsh-users/zsh-syntax-highlighting.git
+  $ZSH_CUSTOM/plugins/zsh-autosuggestions 
+  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
   $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 </p>
 <p>7. copiar e colocar script .zshrc ( diretorio a cima)</p>
@@ -121,34 +121,32 @@ sudo apt install gimp
 <h1>Atalhos Keyboard</h1>
 
 <h2>*Janelas</h2>
-<p><b>Fechar Janela</b> WIN + 1</p>
-<p><b>Maximizar Janela</b> WIN + 2</p>
-<p><b>Fechar Minimizar</b> WIN + 3</p>
+<p><b>Fechar Janela:</b> WIN + 1</p>
+<p><b>Maximizar Janela:</b> WIN + 2</p>
+<p><b>Fechar Minimizar:</b> WIN + 3</p>
 <p>
-  <b>Mover janela </b> WIN + cima ou WIN + baixo ou WIN + direita ou WIN +
+  <b>Mover janela:</b> WIN + cima ou WIN + baixo ou WIN + direita ou WIN +
   esquerda
 </p>
 <p>
-  <b>Mover janela Bloco</b> WIN + ALT + cima ou WIN + ALT + baixo ou WIN + ALT +
+  <b>Mover janela Bloco:</b> WIN + ALT + cima ou WIN + ALT + baixo ou WIN + ALT +
   direita ou WIN + ALT+ esquerda
 </p>
-<p><b>Mover janela com Mouse</b> ALT + rastar c/ Mouse</p>
+<p><b>Mover janela com Mouse:</b> ALT + arrastar c/ Mouse</p>
 
 <h2>*Programas</h2>
-<p><b>Web</b> WIN + W</p>
-<p><b>Bloco de notas</b> WIN + E</p>
-<p><b>Spotify</b> WIN + S</p>
-<p><b>Arquivos</b> WIN + F</p>
-<p><b>Terminal</b> WIN + T</p>
-<p><b>Gimp</b> WIN + G</p>
-<p><b>Controle de Áudio</b> WIN + V</p>
-<p><b>Visual Studio Code</b> WIN + C</p>
+<p><b>Web:</b> WIN + W</p>
+<p><b>Bloco de notas:</b> WIN + E</p>
+<p><b>Spotify:</b> WIN + S</p>
+<p><b>Arquivos:</b> WIN + F</p>
+<p><b>Terminal:</b> WIN + T</p>
+<p><b>Gimp:</b> WIN + G</p>
+<p><b>Controle de Áudio:</b> WIN + V</p>
+<p><b>Visual Studio Code:</b> WIN + C</p>
 
-<h2>*Desligar Hibernar Suspender Reiniciar</h2>
-<p><b>Win + X</b></p>
+<h2>*Sistema</h2>
+<p><b>Reiniciar, Desligar, Suspender, Hibernar:</b> WIN + X</p>
+<p><b>Menu</b> WIN</p>
 
-<h2>*Menu</h2>
-<p><b>Win</b></p>
-
-<h5>Obrigado !</h5>
+<h3>Obrigado !</h3>
 
