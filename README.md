@@ -120,7 +120,7 @@ sudo apt install gimp
 <h4>Painel</h4>
 <img src="Screenshot/painel.png" />
 
-<h4>Painel (não utilizo a borda decorada então para fechar, minimizar e maximizar só pelo teclado ou terminal</h4>
+<h4>Janelas (não utilizo a borda decorada então para fechar, minimizar e maximizar só pelo teclado ou terminal</h4>
 <img src="Screenshot/janela.png" />
 
 
