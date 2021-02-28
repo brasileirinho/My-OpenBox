@@ -117,11 +117,6 @@ sudo apt install gimp
 <h4>Terminal e ZSH</h4>
 <img src="Screenshot/zsh.png" />
 
-<h4>Pastas, Janelas e Painel</h4>
-<img src="Screenshot/pastaaudio.png" />
-
-<h4>Áudio e Notificações</h4>
-<img src="Screenshot/audio.png" />
 
 <h1>Atalhos Keyboard</h1>
 
